@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "_id": "67f4e080fcc825c0dd58e18b",
+      "email": "test11@mail.ru",
+      "password": "test11",
+      "name": "Test11",
+      "token": "cwb8cscw5g5g74c4asboc054cod06gcwb8cscw5g5g6g9cb8cscw5g5g"
+    },
+    {
+      "_id": "4bf60439-391d-4797-a311-6b2a355fc153",
+      "email": "test@test.ru",
+      "password": "Teest11",
+      "name": "test",
+      "token": "cb06d4dcfaef4bac8069b4d6db019279"
+    },
+    {
+      "_id": "9da47c09-7808-4dd8-8938-bba9ff80de1a",
+      "email": "pavel@mail.ru",
+      "password": "pavel22",
+      "name": "Павел",
+      "token": "8d8578bf38f2454e82a0a804e38415af"
+    },
+    {
+      "_id": "9ec2be27-57af-4a4a-b9f0-b7e1c85a3302",
+      "email": "d@d.a",
+      "password": "dsdf4d",
+      "name": "d",
+      "token": "0f5b626d29014f6781059471e54b335c"
+    },
+    {
+      "_id": "656bddb5-b052-4595-8b45-8a7577fed14f",
+      "email": "maria@mail.ru",
+      "password": "mar444",
+      "name": "Маша",
+      "token": "138e4e026e344c2bb87a87ba1069e7c0"
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "240745e1-78e3-4833-a7f0-6340837b72a2",
+      "title": "Test2",
+      "topic": "Research",
+      "date": "2025-05-05T21:00:00.000Z",
+      "status": "Нужно сделать",
+      "ownerId": "9da47c09-7808-4dd8-8938-bba9ff80de1a"
+    },
+    {
+      "_id": "736f07b1-721b-4ff9-812c-2d5d904c0bce",
+      "title": "Задача",
+      "topic": "Copywriting",
+      "date": "2025-05-29T21:00:00.000Z",
+      "status": "Без статуса",
+      "ownerId": "9ec2be27-57af-4a4a-b9f0-b7e1c85a3302"
+    },
+    {
+      "_id": "f6af6561-5253-4545-97e9-6d1cb55092ff",
+      "title": "Задача2",
+      "topic": "Research",
+      "date": "2025-05-23T21:00:00.000Z",
+      "status": "Готово",
+      "ownerId": "9ec2be27-57af-4a4a-b9f0-b7e1c85a3302"
+    },
+    {
+      "_id": "3af78d22-7393-438d-8624-940a50f349ff",
+      "title": "фыа",
+      "topic": "Copywriting",
+      "date": "2025-05-16T21:00:00.000Z",
+      "status": "В работе",
+      "ownerId": "656bddb5-b052-4595-8b45-8a7577fed14f",
+      "description": "Пупупу"
+    }
+  ]
+}
