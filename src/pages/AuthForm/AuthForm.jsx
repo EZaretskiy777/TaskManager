@@ -61,7 +61,7 @@ const AuthForm = ({ isSignUp = false }) => {
                     type="text"
                     placeholder="Имя"
                     {...register("name", {
-                      required: "Пожалуйста, введите имя",
+                      required: "Введите имя",
                     })}
                     $error={!!errors.name}
                   />
